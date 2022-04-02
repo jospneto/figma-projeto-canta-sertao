@@ -1,4 +1,4 @@
-## figma-projeto-canta-sertao 🎶
+## figma-projeto-canta-sertao 🎶<img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 Designs de protótipos criados utilizando o figma, para serem implementados no desenvolvimento da plataforma Canta Sertão utilizando a linguagem PHP. 
 
 ## Telas 🎼:
